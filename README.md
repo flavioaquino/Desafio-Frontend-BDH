@@ -27,7 +27,6 @@ cd movie-search-app
 2. Instale as dependências:
 
 ```
-Copiar código
 npm install
 ```
 3. Configuração de variáveis de ambiente:
