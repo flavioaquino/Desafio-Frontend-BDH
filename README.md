@@ -1,9 +1,6 @@
 # Desafio-Frontend-BDH
 Este repositório contém a implementação de um sistema de consulta de filmes utilizando Next.js, desenvolvido como parte de um desafio de estágio. A aplicação integra-se à API pública do OMDb (Open Movie Database) para permitir a busca e exibição de informações sobre filmes.
 
-# Descrição da Aplicação
-A aplicação consiste em um sistema simples de consulta de filmes, que oferece as seguintes funcionalidades:
-
 # Requisitos Atendidos
 1. Integração com a API OMDb
 A aplicação está configurada para consumir a API OMDb utilizando uma chave de API específica.
