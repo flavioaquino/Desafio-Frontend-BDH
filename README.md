@@ -45,8 +45,10 @@ npm run dev
 
 # Compilação para Produção
 Para criar uma versão otimizada da aplicação, execute:
-
-    npm run build
+```
+npm run build
+```
 E para rodar a versão de produção:
-
-    npm start
+```
+npm start
+```
