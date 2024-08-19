@@ -23,7 +23,6 @@ Instalação
 ```
 git clone github.com/flavioaquino/Desafio-Frontend-BDH
 cd Desafio-Frontend-BDH
-
 ```  
 2. Instale as dependências:
 
