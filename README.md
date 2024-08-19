@@ -21,8 +21,9 @@ Pré-requisitos
 Instalação
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/movie-search-app.git
-cd movie-search-app
+git clone github.com/flavioaquino/Desafio-Frontend-BDH
+cd Desafio-Frontend-BDH
+
 ```  
 2. Instale as dependências:
 
